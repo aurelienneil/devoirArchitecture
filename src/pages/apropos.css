@@ -1,0 +1,63 @@
+.corpsApropos{
+    background: url(../assets/images/medium-shot-students-library-1.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.logoapropos{
+    display: flex;
+    font-size: 2em;
+    margin-left: 7.5em;
+    padding-top: 6em;
+}
+.logoapropos img {
+    height: 4em;
+    width: 4em;
+}
+.logoapropos p{
+    color: #7aabe2;
+    font-weight: 800;
+    font-family: "ne";
+    font-family: "Agenor";
+
+}
+.logoapropos p span{
+    color: #8300AE;
+}.logoaproposFooter{
+    display: flex;
+    font-size: 1em;
+    margin-left: 1.5em;
+    padding-top: 1em;
+    align-items: center;
+}
+.logoaproposFooter img {
+    height: 2em;
+    width: 2em;
+}
+.logoaproposFooter p{
+    color: #7aabe2;
+    font-weight: 800;
+    font-family: "ne";
+    font-family: "Agenor";
+
+}
+.logoaproposFooter p span{
+    color: #8300AE;
+}
+.texteApropos{
+    padding: 4em;
+    color: white;
+    font-size: 1.2em;
+    font-family: "Agenor";
+}
+.buttonApropos{
+    padding: 1em;
+    border: none;
+    border-radius: 1em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-left: 60%;
+    color: white;
+    background-color: #0cb0ff;
+    width: 10em;
+    font-weight: bold;
+}

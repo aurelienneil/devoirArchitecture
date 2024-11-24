@@ -1,0 +1,11 @@
+.logoimage{
+    display: flex;
+    font-size: small;
+    justify-content: center;
+}
+.logoimage p{
+    color: #BEDCFE;
+}
+.logoimage p span{
+    color: #8300AE;
+}

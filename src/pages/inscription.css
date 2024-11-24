@@ -1,0 +1,51 @@
+.loginpage{
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    height: 26em;
+    padding-bottom: 10em;
+}
+.gaucheloginpage{
+    width: 15%;
+}
+.droitloginpage{
+    border-radius: 50%;
+    width: 45em;
+    height: 45em;
+    margin-left: 38em;
+    overflow: hidden;
+    text-align: center;
+    height: 50em;
+    position: relative  ;
+    margin-left: 10em;
+}
+.couche1loginpage{
+    height: 50em;
+    width: 50em;
+    display: flex;
+    background-color: #0cb0ff;
+    padding-left: 3%;
+    padding-top: 3%;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    margin-bottom: 8%;
+}
+.couche2loginpage{
+    height: 48em;
+    width: 48em;
+    padding: 3%;
+    padding-top: 3%;
+    background-color: white;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 50%;
+}
+.couche3loginpage{
+    height: 45em;
+    width: 45em;
+    
+    background-color:  #8300AE;
+    text-align: center;
+    border-radius: 50%;
+}
